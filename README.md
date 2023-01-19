@@ -1,6 +1,8 @@
 # Hashitalks: Terraform + Gitlab
 This talk introducing how to use Gitlab CI to managed complex terraform codebases with ease. 
 
+https://youtu.be/TlTAVgHke3Y 
+
 ## Folders
 
 _ci: This directory contain `yaml` files for each gitlab stages. 
